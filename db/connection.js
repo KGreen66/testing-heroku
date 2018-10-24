@@ -1,3 +1,4 @@
+MONGODB_URI = require('dotenv').config()
 // requirements: import mongoose
 const mongoose = require('mongoose')
 
