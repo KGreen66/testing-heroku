@@ -10,6 +10,7 @@
   "author": "Keith Green",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^6.1.0",
     "express": "^4.13.4",
     "hbs": "^4.0.1",
     "method-override": "^2.3.5",
